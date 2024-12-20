@@ -1,1 +1,1 @@
-This project is containing two .CSV file, colab file and python file. Both python and colab file are same, except two different versions. Sorry to say, this project is created with the help of chatgpt. But it was also a hard word. 
+This project is containing two .CSV file, colab file and python file. Both python and colab file are same, except two different file extensions. Sorry to say, this project is created with the help of chatgpt. But it was also a hard word! 
